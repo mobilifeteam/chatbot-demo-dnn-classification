@@ -1,0 +1,8 @@
+bin
+lib
+__pycache__
+samples
+models
+.Python
+pip-selfcheck.json
+include
